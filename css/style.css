@@ -1,0 +1,32 @@
+header {
+  background-color:green;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+nav {
+  background-color: orange;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.left-item {
+  background-color: blue;
+  width: 75%;
+  float: left;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.right-item {
+  background-color: red;
+  width: 25%;
+  float: right;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.clearfix {
+  clear: both;
+}
+footer {
+  background: pink;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
